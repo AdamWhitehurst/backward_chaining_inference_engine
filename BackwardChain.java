@@ -28,6 +28,11 @@
 // David Noelle -- Tue Apr 10 17:08:45 PDT 2007
 //
 
+//
+// Unify methods written by me.
+// Adam Whitehurst -- Fri Oct 27 9:00:00 PDT 2017
+//
+
 import java.util.*;
 
 public class BackwardChain {
